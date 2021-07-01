@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Hoonggg, ghét Tró Đạt nứm :3',
     question:'Oaaaaa, thích thế. Vậy thì hông được buông bàn tay đâu đấy nha EmIu moazzz moazz <3',
     btnReply: '',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Công chúa bít gòi Đạt đẹp trai ạ.Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Đưa tay đây nào. Mãi bên nhau Còi nhớ.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okela lun <3',
     messLink: 'https://www.facebook.com/messages/t/100022401227319/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
